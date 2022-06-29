@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! me chamo Kauê</h1>
 
-<h3 align="center"> Sou desenvolvedor Front-end </h3>
+<h3 align="center"> Futuro desenvolvedor Front-end </h3>
 
 <br/>
   
