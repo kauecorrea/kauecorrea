@@ -12,13 +12,13 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' alt="a cool gif" />
 <h3> Sobre mim </h3>
 
-- 💬 Pergunte-me sobre: filmes, tech, games.
+- 🎂 17 anos.
 
 - 📫 Email: **kauehenrique08@gmail.com**.
 
-- 🔭 Atualmente estou aprendendo **JS**.
+- 🧠 Atualmente estudando: **HTML**, **CSS** e **JavaScript!**.
 
-- 👨‍🎓 Fato engraçado: eu💖🎮.
+- 👀 Tenho interesse em: React, **TypeScript**, **NodeJS** e **Electron**.
 
 <br/>
 <br/>
