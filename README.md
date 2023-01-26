@@ -16,6 +16,8 @@
 
 - 📫 Email: **kauehenrique08@gmail.com**.
 
+- 👨‍🎓 Acadêmico de Engenharia de Software
+
 - 🧠 Atualmente estudando: **HTML**, **CSS** e **JavaScript!**.
 
 - 👀 Tenho interesse em: React, **TypeScript**, **NodeJS** e **Electron**.
