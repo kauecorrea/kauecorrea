@@ -18,9 +18,9 @@
 
 - 👨‍🎓 Acadêmico de Engenharia de Software
 
-- 🧠 Atualmente estudando: **HTML**, **CSS** e **JavaScript!**.
+- 🧠 Atualmente estudando: **JavaScript!**.
 
-- 👀 Tenho interesse em: React, **TypeScript**, **NodeJS** e **Electron**.
+- 👀 Tenho interesse em: **React** e **TypeScript**.
 
 <br/>
 <br/>
