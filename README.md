@@ -5,7 +5,7 @@
 <br/>
   
   <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tenho 18 anos e atualmente sou acadêmico de engenharia de software e estou estudando vários cursos sobre Front-end. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tenho 18 anos e atualmente sou acadêmico de engenharia de software e atualmente estou estudando Back-end. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa.
 </p>
 
 <br>
