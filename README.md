@@ -5,14 +5,14 @@
 <br/>
   
   <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tenho 18 anos e atualmente sou acadêmico de engenharia de software e atualmente estou estudando Back-end. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tenho 19 anos e atualmente sou acadêmico de engenharia de software e atualmente estou estudando Java. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa.
 </p>
 
 <br>
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' alt="a cool gif" />
 <h3> Sobre mim </h3>
 
-- 🎂 18 anos.
+- 🎂 19 anos.
 
 - 📫 Email: **kauehenrique08@gmail.com**.
 
@@ -20,7 +20,7 @@
 
 - 🧠 Atualmente estudando: **Java!**.
 
-- 👀 Tenho interesse em: **C#** e **PHP**.
+- 👀 Tenho interesse em: **Spring** e **Angular**.
 
 <br/>
 <br/>
