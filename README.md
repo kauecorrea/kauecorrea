@@ -14,7 +14,7 @@
 
 - 🎂 19 anos.
 
-- 📫 Email: **kauehenrique08@gmail.com**.
+- 📫 Email: **kauehenrique08@gmail.com**
 
 - 👨‍🎓 Acadêmico de Engenharia de Software
 
