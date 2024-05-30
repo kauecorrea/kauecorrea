@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! me chamo Kauê</h1>
 
-<h3 align="center"> Futuro desenvolvedor Back-end </h3>
+<h3 align="center"> Desenvolvedor Back-end </h3>
 
 <br/>
   
@@ -10,7 +10,7 @@
 
 <br>
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' alt="a cool gif" />
-<h3> Sobre mim </h3>
+<h3> Sobre mim! </h3>
 
 - 🎂 19 anos.
 
