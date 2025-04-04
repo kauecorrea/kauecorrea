@@ -12,7 +12,7 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="380" align='right' alt="a cool gif" />
 <h3> Sobre mim </h3>
 
-- 🎂 19 anos.
+- 🎂 20 anos.
 
 - 📫 Email: **kauehenrique08@gmail.com**
 
@@ -20,7 +20,7 @@
 
 - 🧠 Atualmente estudando: **Java!**.
 
-- 👀 Tenho interesse em: **Spring** e **Angular**.
+- 👀 Tenho interesse em: **Spring**
 
 <br/>
 <br/>
