@@ -20,7 +20,6 @@
 
 - 🧠 Atualmente estudando: **Java!**.
 
-- 👀 Tenho interesse em: **Spring**
 
 <br/>
 <br/>
