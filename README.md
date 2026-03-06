@@ -41,10 +41,3 @@
   <br>
   <br>
   
- <h1 align="center"> My Github Stats </h1>
-
-<p align="center">
-  <a href="https://github.com/kauecorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauecorrea&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauecorrea&layout=compact&langs_count=7&theme=synthwave"/>
-</p>
