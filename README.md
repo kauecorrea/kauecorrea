@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! me chamo Kauê 👋</h1>
-  <h3>Desenvolvedor Back-end | Engenheiro de Software</h3>
+  <h3>Desenvolvedor | Engenheiro de Software</h3>
 </div>
 
 <br/>
@@ -23,6 +23,7 @@
         <li>🎓 <b>Engenheiro de Software</b>.</li>
         <li>💻 Desenvolvedor com foco em <b>Java, Python e Angular</b>.</li>
         <li>🚀 Experiência na criação de sistemas de gestão e infraestrutura.</li>
+        <li>🌐 Portfólio: <a href="https://kauecorrea.github.io/portfolio"><b>kauecorrea.github.io/portfolio</b></a></li>
         <li>📫 Email: <b>kauehenrique08@gmail.com</b></li>
       </ul>
     </td>
@@ -72,6 +73,9 @@
 <div align="center">
   <h3>🤝 Conecte-se comigo</h3>
   
+  <a href="https://kauecorrea.github.io/portfolio">
+    <img src="https://img.shields.io/badge/-Acesse_Meu_Portfólio-%231E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank" alt="Portfólio">
+  </a>
   <a href="mailto:kauehenrique08@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
